@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hand-detection-2class-MobilenetV1-SSD/static/css/main.f9591bd5.chunk.css",
+    "main.js": "/hand-detection-2class-MobilenetV1-SSD/static/js/main.6d15f44b.chunk.js",
+    "main.js.map": "/hand-detection-2class-MobilenetV1-SSD/static/js/main.6d15f44b.chunk.js.map",
+    "runtime~main.js": "/hand-detection-2class-MobilenetV1-SSD/static/js/runtime~main.cd4f2861.js",
+    "runtime~main.js.map": "/hand-detection-2class-MobilenetV1-SSD/static/js/runtime~main.cd4f2861.js.map",
+    "static/js/2.7ee2a9c5.chunk.js": "/hand-detection-2class-MobilenetV1-SSD/static/js/2.7ee2a9c5.chunk.js",
+    "static/js/2.7ee2a9c5.chunk.js.map": "/hand-detection-2class-MobilenetV1-SSD/static/js/2.7ee2a9c5.chunk.js.map",
+    "index.html": "/hand-detection-2class-MobilenetV1-SSD/index.html",
+    "precache-manifest.420779489e195f4cf1b4e207b8b38f0b.js": "/hand-detection-2class-MobilenetV1-SSD/precache-manifest.420779489e195f4cf1b4e207b8b38f0b.js",
+    "service-worker.js": "/hand-detection-2class-MobilenetV1-SSD/service-worker.js",
+    "static/css/main.f9591bd5.chunk.css.map": "/hand-detection-2class-MobilenetV1-SSD/static/css/main.f9591bd5.chunk.css.map"
+  }
+}
