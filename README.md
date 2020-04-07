@@ -16,21 +16,37 @@ MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite�
 # Note
 本モデルは[IBM Cloud Annotations](https://cloud.annotations.ai/)を利用して作成しています。
 
+また、Tensorflowjs版のモデルは、以下のGithub Pagesから動作確認することが出来ます。
+
+https://kazuhito00.github.io/hand-detection-2class-MobilenetV1-SSD/
+
 # Contents
 本リポジトリには以下のモデルが含まれます。
 
 * model
 　TensorflowのFrozenモデル
+ 
 　※訓練時のTensorflowのバージョンが低いため、バージョンが合わないと動作しない可能性があります)
 * model_android
 　Tensorflow Liteのモデル
+ 
+　以下のリポジトリのソースコードで動作確認が可能です。
+ 
+　　Python：https://github.com/cloud-annotations/object-detection-python
+  
+　　Android：https://github.com/cloud-annotations/object-detection-android
 * model_ios	Initial
 　Tensorflow CoreMLモデル
+ 
+　以下のリポジトリのソースコードで動作確認が可能です。
+
+iOS：https://github.com/cloud-annotations/object-detection-ios
 * model_web
 　Tensorflowjsのモデル
+ 
+　以下のリポジトリのソースコードで動作確認が可能です。
 
-https://kazuhito00.github.io/hand-detection-2class-MobilenetV1-SSD/
-
+　　REACT：https://github.com/cloud-annotations/object-detection-react
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
