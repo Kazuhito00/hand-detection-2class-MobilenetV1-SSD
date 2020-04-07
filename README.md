@@ -26,32 +26,32 @@ https://kazuhito00.github.io/hand-detection-2class-MobilenetV1-SSD/
 
 * model
 
-　TensorflowのFrozenモデル
+　　TensorflowのFrozenモデル
  
-　※訓練時のTensorflowのバージョンが低いため、バージョンが合わないと動作しない可能性があります)
+　　※訓練時のTensorflowのバージョンが低いため、バージョンが合わないと動作しない可能性があります)
 * model_android
 
-　Tensorflow Liteのモデル
+　　Tensorflow Liteのモデル
  
-　以下のリポジトリのソースコードで動作確認が可能です。
+　　以下のリポジトリのソースコードで動作確認が可能です。
  
-　　Python：https://github.com/cloud-annotations/object-detection-python
+　　　Python：https://github.com/cloud-annotations/object-detection-python
   
-　　Android：https://github.com/cloud-annotations/object-detection-android
+　　　Android：https://github.com/cloud-annotations/object-detection-android
 * model_ios	Initial
 
-　Tensorflow CoreMLモデル
+　　Tensorflow CoreMLモデル
  
-　以下のリポジトリのソースコードで動作確認が可能です。
+　　以下のリポジトリのソースコードで動作確認が可能です。
 
-iOS：https://github.com/cloud-annotations/object-detection-ios
+　　　iOS：https://github.com/cloud-annotations/object-detection-ios
 * model_web
 
-　Tensorflowjsのモデル
+　　Tensorflowjsのモデル
  
-　以下のリポジトリのソースコードで動作確認が可能です。
+　　以下のリポジトリのソースコードで動作確認が可能です。
 
-　　REACT：https://github.com/cloud-annotations/object-detection-react
+　　　REACT：https://github.com/cloud-annotations/object-detection-react
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
