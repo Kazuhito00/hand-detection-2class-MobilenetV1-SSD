@@ -38,7 +38,7 @@ https://kazuhito00.github.io/hand-detection-2class-MobilenetV1-SSD/
 　　　Python：https://github.com/cloud-annotations/object-detection-python
   
 　　　Android：https://github.com/cloud-annotations/object-detection-android
-* model_ios	Initial
+* model_ios
 
 　　Tensorflow CoreMLモデル
  
