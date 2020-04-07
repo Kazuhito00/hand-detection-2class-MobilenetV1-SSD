@@ -11,6 +11,7 @@ MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite�
  
 * Tensorflow 1.4.0
 * Tensorflowjs 1.4.0
+
 ※バージョンが少々古いため注意
 
 # Note
