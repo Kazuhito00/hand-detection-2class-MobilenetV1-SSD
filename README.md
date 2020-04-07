@@ -25,10 +25,12 @@ https://kazuhito00.github.io/hand-detection-2class-MobilenetV1-SSD/
 本リポジトリには以下のモデルが含まれます。
 
 * model
+
 　TensorflowのFrozenモデル
  
 　※訓練時のTensorflowのバージョンが低いため、バージョンが合わないと動作しない可能性があります)
 * model_android
+
 　Tensorflow Liteのモデル
  
 　以下のリポジトリのソースコードで動作確認が可能です。
@@ -37,12 +39,14 @@ https://kazuhito00.github.io/hand-detection-2class-MobilenetV1-SSD/
   
 　　Android：https://github.com/cloud-annotations/object-detection-android
 * model_ios	Initial
+
 　Tensorflow CoreMLモデル
  
 　以下のリポジトリのソースコードで動作確認が可能です。
 
 iOS：https://github.com/cloud-annotations/object-detection-ios
 * model_web
+
 　Tensorflowjsのモデル
  
 　以下のリポジトリのソースコードで動作確認が可能です。
@@ -53,4 +57,10 @@ iOS：https://github.com/cloud-annotations/object-detection-ios
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-object-detection-bbox-art is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+hand-detection-2class-MobilenetV1-SSD is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+# Cloud Annotations(object-detection-react) License 
+Copyright (c) 2019 Nick Bourdakos
+
+object-detection-react is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
