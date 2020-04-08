@@ -1,3 +1,5 @@
+[![](https://img.shields.io/static/v1?label=Demo&message=Link&color=brightgreen)](https://kazuhito00.github.io/hand-detection-2class-MobilenetV1-SSD/)
+
 # hand-detection-2class-MobilenetV1-SSD
 MobilenetV1-SSDで訓練した手検出(Open/Close)のモデル(TensorflowLite、Tensorflowjs、CoreML)です。
 
