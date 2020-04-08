@@ -1,3 +1,4 @@
+<!-- https://shields.io/でバッジ作成 -->
 [![](DemoBadge.svg)](https://kazuhito00.github.io/hand-detection-2class-MobilenetV1-SSD/)
 
 # hand-detection-2class-MobilenetV1-SSD
